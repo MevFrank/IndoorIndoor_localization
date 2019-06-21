@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IndoorLocalization</string>
+    <string name="activity_pred_1_2f">Acctivi_Classification</string>
+    <string name="error_no_sensor">No sensor</string>
+
+</resources>
